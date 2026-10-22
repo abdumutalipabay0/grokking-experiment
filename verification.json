@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "checks": [
+    "reloaded accuracy",
+    "split indices",
+    "paired initial metrics",
+    "source hashes",
+    "201 evaluations per run"
+  ],
+  "runs": [
+    {
+      "run": "wd1-seed0",
+      "train_accuracy": 1.0,
+      "heldout_accuracy": 1.0
+    },
+    {
+      "run": "wd0-seed0",
+      "train_accuracy": 1.0,
+      "heldout_accuracy": 0.04217474162578583
+    },
+    {
+      "run": "wd1-seed1",
+      "train_accuracy": 1.0,
+      "heldout_accuracy": 0.9995525479316711
+    },
+    {
+      "run": "wd0-seed1",
+      "train_accuracy": 1.0,
+      "heldout_accuracy": 0.04251034930348396
+    },
+    {
+      "run": "wd1-seed2",
+      "train_accuracy": 1.0,
+      "heldout_accuracy": 0.9993287920951843
+    },
+    {
+      "run": "wd0-seed2",
+      "train_accuracy": 1.0,
+      "heldout_accuracy": 0.06801655888557434
+    }
+  ]
+}

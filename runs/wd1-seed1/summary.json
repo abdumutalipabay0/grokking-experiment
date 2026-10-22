@@ -1,0 +1,17 @@
+{
+  "status": "complete",
+  "first_train_99": 200,
+  "first_heldout_99_sustained_5_evaluations": 6700,
+  "gap_steps": 6500,
+  "final": {
+    "step": 20000,
+    "seconds": 57.812,
+    "train_loss": 6.879894840494671e-07,
+    "heldout_loss": 0.0013894475996494293,
+    "train_acc": 1.0,
+    "heldout_acc": 0.9995525479316711,
+    "weight_norm": 35.93975067138672,
+    "embedding_top5_fourier_fraction": 0.9507493376731873
+  },
+  "max_cuda_memory_mb": 313.90087890625
+}
